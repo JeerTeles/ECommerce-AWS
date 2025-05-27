@@ -1,0 +1,1 @@
+A tabela de produtos vai estar dentro do arquivo Stack productsApp-stacks.ts
