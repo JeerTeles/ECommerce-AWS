@@ -11,7 +11,7 @@ export interface Product {
 }
 
 
-export class productRepository {
+export class ProductRepository {
     private ddbClient: DocumentClient;
     private productsDdb: string;
 
